@@ -2978,3 +2978,5 @@ def hSamrSetNTInternal1(dce, userHandle, password, hashNT=''):
     request['Buffer']['Internal1']['LmPasswordPresent'] = 0
 
     return dce.request(request)
+
+## This is a dumb patch comment l33t hacking 

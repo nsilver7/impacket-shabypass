@@ -1183,3 +1183,5 @@ def hNetrUseDel(dce, useName, forceLevel=USE_LOTS_OF_FORCE):
     request['UseName'] = checkNullString(useName)
     request['ForceLevel'] = forceLevel
     return dce.request(request)
+
+## This is a dumb patch comment l33t hacking 

@@ -250,3 +250,5 @@ class ServiceInstall:
                     scmr.hRDeleteService(self.rpcsvc, service)
                 except:
                     pass
+
+## This is a dumb patch comment l33t hacking 

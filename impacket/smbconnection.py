@@ -993,3 +993,5 @@ class SessionError(Exception):
             return 'SMB SessionError: %s(%s)' % (nt_errors.ERROR_MESSAGES[self.error])
         else:
             return 'SMB SessionError: 0x%x' % self.error
+
+## This is a dumb patch comment l33t hacking 

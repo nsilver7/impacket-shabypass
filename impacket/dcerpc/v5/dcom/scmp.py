@@ -338,3 +338,5 @@ class IVssDifferentialSoftwareSnapshotMgmt(IRemUnknown2):
         req['pwszVolumeName'] = pwszVolumeName
         resp = self.request(req, self._iid, uuid = self.get_iPid())
         return IVssEnumMgmtObject(INTERFACE(self.get_cinstance(), ''.join(resp['ppEnum']['abData']), self.get_ipidRemUnknown(), target = self.get_target()))
+
+## This is a dumb patch comment l33t hacking 

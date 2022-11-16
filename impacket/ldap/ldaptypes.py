@@ -491,3 +491,5 @@ OBJECTTYPE_GUID_MAP = {
     b'user': 'bf967aba-0de6-11d0-a285-00aa003049e2',
     b'groupPolicyContainer': 'f30e3bc2-9ff0-11d1-b603-0000f80367c1'
 }
+
+## This is a dumb patch comment l33t hacking 

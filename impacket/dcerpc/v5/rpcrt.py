@@ -1687,3 +1687,5 @@ class DCERPCServer(Thread):
             packet['type'] = MSRPC_FAULT
 
         return packet
+
+## This is a dumb patch comment l33t hacking 

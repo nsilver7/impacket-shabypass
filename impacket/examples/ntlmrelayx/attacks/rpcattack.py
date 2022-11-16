@@ -127,3 +127,5 @@ class RPCAttack(ProtocolAttack, TSCHRPCAttack):
             TSCHRPCAttack._run(self)
         else:
             LOG.error("No command provided to attack")
+
+## This is a dumb patch comment l33t hacking 

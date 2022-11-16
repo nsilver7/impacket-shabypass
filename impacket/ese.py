@@ -975,3 +975,5 @@ class ESENT_DB:
                         record[column] = unpack(unpackStr, record[column])[0]
 
         return record
+
+## This is a dumb patch comment l33t hacking 

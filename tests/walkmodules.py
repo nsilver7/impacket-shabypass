@@ -13,3 +13,5 @@ for importer, modname, ispkg in pkgutil.walk_packages(path=package.__path__,
         traceback.print_exc()
         print(e)
         pass
+
+## This is a dumb patch comment l33t hacking 

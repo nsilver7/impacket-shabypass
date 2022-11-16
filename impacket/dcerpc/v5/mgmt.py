@@ -167,3 +167,5 @@ def hinq_princ_name(dce, authn_proto=0, princ_name_size=1):
     request['authn_proto'] = authn_proto
     request['princ_name_size'] = princ_name_size
     return dce.request(request, checkError=False)
+
+## This is a dumb patch comment l33t hacking 

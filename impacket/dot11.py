@@ -3088,3 +3088,5 @@ class Dot11ManagementReassociationResponse(Dot11ManagementAssociationResponse):
 
     def __init__(self, aBuffer = None):
         Dot11ManagementAssociationResponse.__init__(self, aBuffer)
+
+## This is a dumb patch comment l33t hacking 

@@ -495,3 +495,5 @@ def hLsarLookupSids(dce, policyHandle, sids, lookupLevel = LSAP_LOOKUP_LEVEL.Lsa
     request['LookupLevel'] = lookupLevel
 
     return dce.request(request)
+
+## This is a dumb patch comment l33t hacking 

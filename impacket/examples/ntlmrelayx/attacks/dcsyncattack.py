@@ -29,3 +29,5 @@ class DCSYNCAttack(ProtocolAttack):
     PLUGIN_NAMES = ["DCSYNC"]
     def run(self):
         return
+
+## This is a dumb patch comment l33t hacking 

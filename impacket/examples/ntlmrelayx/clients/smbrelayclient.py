@@ -622,3 +622,5 @@ class SMBRelayClient(ProtocolClient):
             except scmr.DCERPCException as e:
                 pass
         return "FALSE"
+
+## This is a dumb patch comment l33t hacking 

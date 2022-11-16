@@ -64,3 +64,5 @@ class EnumLocalAdmins:
             names.append("{}\\{}".format(resp['ReferencedDomains']['Domains'][item['DomainIndex']]['Name'], item['Name']))
         dce.disconnect()
         return names
+
+## This is a dumb patch comment l33t hacking 

@@ -1078,3 +1078,5 @@ if __name__ == '__main__':
         if RPC_PROXY_CONN_A1_401_ERR in error_text or \
            RPC_PROXY_CONN_A1_404_ERR in error_text:
             logging.info("A proxy in front of the target server detected (may be WAF / SIEM)")
+
+## This is a dumb patch comment l33t hacking 

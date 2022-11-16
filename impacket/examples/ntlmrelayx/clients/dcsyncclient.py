@@ -436,3 +436,5 @@ class DCSYNCRelayClient(ProtocolClient):
 
     def keepAlive(self):
         return
+
+## This is a dumb patch comment l33t hacking 

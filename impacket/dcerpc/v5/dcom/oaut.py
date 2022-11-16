@@ -1091,3 +1091,5 @@ class IDispatch(IRemUnknown2):
         request['rgVarRef'] = rgVarRefIdx
         resp = self.request(request, iid = self._iid, uuid = self.get_iPid())
         return resp
+
+## This is a dumb patch comment l33t hacking 

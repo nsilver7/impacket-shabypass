@@ -396,3 +396,5 @@ if __name__ == '__main__':
 
         if 'rpc_s_access_denied' in error_text:
              logging.critical("This usually means the credentials on the MSRPC level are invalid!")
+
+## This is a dumb patch comment l33t hacking 

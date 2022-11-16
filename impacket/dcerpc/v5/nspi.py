@@ -1362,3 +1362,5 @@ def hNspiResolveNamesW(dce, handler, ContainerID=0, pPropTags=[], pPropTagsRaw=N
 
     resp = dce.request(request)
     return resp
+
+## This is a dumb patch comment l33t hacking 

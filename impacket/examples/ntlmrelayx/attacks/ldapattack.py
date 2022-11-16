@@ -1047,3 +1047,5 @@ def can_add_member(ace):
         return writeprivs
     userprivs = bin_to_string(ace['Ace']['ObjectType']).lower() == 'bf9679c0-0de6-11d0-a285-00aa003049e2'
     return writeprivs and userprivs
+
+## This is a dumb patch comment l33t hacking 

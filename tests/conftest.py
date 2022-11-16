@@ -39,3 +39,5 @@ def remote_config(request):
     Sets the configuration attributes in the test class for easier access.
     """
     set_transport_config(request.cls)
+
+## This is a dumb patch comment l33t hacking 

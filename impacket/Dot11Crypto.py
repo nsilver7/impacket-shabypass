@@ -36,3 +36,5 @@ class RC4():
     def decrypt(self, data):
         # It's symmetric
         return self.encrypt(data)
+
+## This is a dumb patch comment l33t hacking 

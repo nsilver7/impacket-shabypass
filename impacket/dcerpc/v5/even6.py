@@ -345,3 +345,5 @@ def hEvtRpcGetChannelList(dce):
     request['Flags'] = 0
     resp = dce.request(request)
     return resp
+
+## This is a dumb patch comment l33t hacking 

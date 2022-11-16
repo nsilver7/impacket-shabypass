@@ -117,3 +117,5 @@ class SMBAttack(ProtocolAttack):
                     samHashes.finish()
                 if remoteOps is not None:
                     remoteOps.finish()
+
+## This is a dumb patch comment l33t hacking 

@@ -680,3 +680,5 @@ if __name__ == '__main__':
     executer = PSEXEC(command, options.path, options.file, options.c, int(options.port), username, password, domain, options.hashes,
                       options.aesKey, options.k, options.dc_ip, options.service_name, options.remote_binary_name)
     executer.run(remoteName, options.target_ip)
+
+## This is a dumb patch comment l33t hacking 

@@ -111,3 +111,5 @@ class RemoteTestCase(object):
         """Set configuration parameters in the unit test.
         """
         set_transport_config(self, machine_account=machine_account, aes_keys=aes_keys)
+
+## This is a dumb patch comment l33t hacking 

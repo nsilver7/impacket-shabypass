@@ -26,3 +26,5 @@ for file in pkg_resources.resource_listdir('impacket.examples.ntlmrelayx.servers
     module = sys.modules[package + '.' + os.path.splitext(file)[0]]
     pluginClass = getattr(module, getattr(module, 'PLUGIN_CLASS'))
     SOCKS_RELAYS.add(pluginClass)
+
+## This is a dumb patch comment l33t hacking 

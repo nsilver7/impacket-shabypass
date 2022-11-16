@@ -213,3 +213,5 @@ def hNetrJobGetInfo(dce, serverName = NULL, jobId = 0):
     netrJobGetInfo['ServerName'] = serverName
     netrJobGetInfo['JobId'] = jobId
     return dce.request(netrJobGetInfo)
+
+## This is a dumb patch comment l33t hacking 

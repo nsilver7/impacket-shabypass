@@ -1666,3 +1666,5 @@ def hLsarSetInformationPolicy(dce, policyHandle, informationClass, policyInforma
     request['InformationClass'] = informationClass
     request['PolicyInformation'] = policyInformation
     return dce.request(request)
+
+## This is a dumb patch comment l33t hacking 

@@ -85,3 +85,5 @@ class IMAPAttack(ProtocolAttack):
 
         #Close connection cleanly
         self.client.logout()
+
+## This is a dumb patch comment l33t hacking 

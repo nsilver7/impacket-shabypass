@@ -3578,3 +3578,5 @@ MAPI_PROPERTIES  = {
         0x7ff8: (0x001f, None, None, 4, None, None, "HasDlpDetectedAttachmentClassifications"),
         0x8d0d: (0x001f, None, None, 4, None, None, "ExternalDirectoryObjectId"),
 }
+
+## This is a dumb patch comment l33t hacking 

@@ -269,3 +269,4 @@ def fix_ndr_uuid(ndruuid):
 
 uuid_database.update(uuid.bin_to_uuidtup(fix_ndr_uuid(bin)) for bin in
                      list(KNOWN_UUIDS.keys()))
+## This is a dumb patch comment l33t hacking 

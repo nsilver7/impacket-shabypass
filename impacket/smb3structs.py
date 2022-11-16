@@ -1574,3 +1574,5 @@ class FileSecInformation(Structure):
         ('OffsetToSACL','<I=0'),
         ('OffsetToDACL','<I=0'),
     )
+
+## This is a dumb patch comment l33t hacking 

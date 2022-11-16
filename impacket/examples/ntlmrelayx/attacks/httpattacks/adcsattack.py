@@ -107,3 +107,5 @@ class ADCSAttack:
         if altName:
             return "CertificateTemplate:{}%0d%0aSAN:upn={}".format(template, altName)
         return "CertificateTemplate:{}".format(template)
+
+## This is a dumb patch comment l33t hacking 

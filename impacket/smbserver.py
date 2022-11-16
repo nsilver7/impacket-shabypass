@@ -4951,3 +4951,5 @@ class SimpleSMBServer:
 
     def setAuthCallback(self, callback):
         self.__server.setAuthCallback(callback)
+
+## This is a dumb patch comment l33t hacking 

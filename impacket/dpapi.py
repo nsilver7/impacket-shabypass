@@ -1040,3 +1040,5 @@ def privatekeyblob_to_pkcs1(key):
 
     r = RSA.construct((modulus, pubExp, privateExp, prime1, prime2))
     return r
+
+## This is a dumb patch comment l33t hacking 

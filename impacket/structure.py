@@ -659,3 +659,5 @@ def parse_bitmask(dict, value):
         return '0'
     else:
         return ret[:-3]
+
+## This is a dumb patch comment l33t hacking 

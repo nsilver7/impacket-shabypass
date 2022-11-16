@@ -1541,3 +1541,5 @@ class MSSQL:
         if self.lastError:
             raise self.lastError
         return True
+
+## This is a dumb patch comment l33t hacking 

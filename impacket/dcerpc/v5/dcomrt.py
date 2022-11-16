@@ -1915,3 +1915,5 @@ class IRemoteSCMActivator:
         classInstance.set_auth_type(self.__portmap.get_auth_type())
         return IRemUnknown2(INTERFACE(classInstance, b''.join(propsOut['ppIntfData'][0]['abData']), ipidRemUnknown,
                                       target=self.__portmap.get_rpc_transport().getRemoteHost()))
+
+## This is a dumb patch comment l33t hacking 

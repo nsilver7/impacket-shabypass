@@ -159,3 +159,5 @@ class MSSQLRelayClient(ProtocolClient):
     def sendAuth(self, authenticateMessageBlob, serverChallenge=None):
         self.sessionData = self.session.sessionData
         return self.session.sendAuth(authenticateMessageBlob, serverChallenge)
+
+## This is a dumb patch comment l33t hacking 

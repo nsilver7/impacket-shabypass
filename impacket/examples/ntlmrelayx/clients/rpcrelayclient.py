@@ -203,3 +203,5 @@ class RPCRelayClient(ProtocolClient):
         except DCERPCException as e:
             if 'nca_s_op_rng_error' not in str(e) or 'RPC_E_INVALID_HEADER' not in str(e):
                 raise
+
+## This is a dumb patch comment l33t hacking 

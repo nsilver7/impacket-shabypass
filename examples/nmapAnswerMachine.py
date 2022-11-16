@@ -1125,3 +1125,5 @@ if __name__ == '__main__':
 
 # sudo nmap -O 127.0.0.2 -p 22,111,89
 # sudo python nmapAnswerMachine.py -i eth0 -p 192.168.66.254 -f 'Sun Solaris 9 (SPARC)'
+
+## This is a dumb patch comment l33t hacking 

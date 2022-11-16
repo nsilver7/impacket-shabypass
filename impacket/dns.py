@@ -572,3 +572,5 @@ class DNS(ProtocolPacket):
             if response_type == DNSType.OPT:
                 return True
         return False
+
+## This is a dumb patch comment l33t hacking 

@@ -333,3 +333,5 @@ if __name__ == '__main__':
             import traceback
             traceback.print_exc()
         logging.error(str(e))
+
+## This is a dumb patch comment l33t hacking 

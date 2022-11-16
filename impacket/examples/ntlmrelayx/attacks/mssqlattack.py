@@ -30,3 +30,5 @@ class MSSQLAttack(ProtocolAttack):
                 self.client.sql_query(query)
                 self.client.printReplies()
                 self.client.printRows()
+
+## This is a dumb patch comment l33t hacking 

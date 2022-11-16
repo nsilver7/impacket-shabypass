@@ -517,3 +517,5 @@ class KERB_KEY_LIST_REQ(univ.SequenceOf):
 
 class KERB_KEY_LIST_REP(univ.SequenceOf):
     componentType = EncryptionKey()
+
+## This is a dumb patch comment l33t hacking 

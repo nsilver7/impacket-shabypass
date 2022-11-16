@@ -1148,3 +1148,5 @@ def hDhcpEnumSubnetElementsV5(dce, subnet_address, element_type=DHCP_SUBNET_ELEM
                 raise
             resp = e.get_packet()
         return resp
+
+## This is a dumb patch comment l33t hacking 

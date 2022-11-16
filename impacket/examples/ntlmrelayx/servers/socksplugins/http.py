@@ -202,3 +202,5 @@ class HTTPSocksRelay(SocksRelay):
             self.relaySocket.send(tosend)
             # Send the response back to the client
             self.transferResponse()
+
+## This is a dumb patch comment l33t hacking 

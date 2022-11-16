@@ -21,3 +21,5 @@ BANNER = "Impacket v{} - Copyright 2022 SecureAuth Corporation\n".format(version
 
 def getInstallationPath():
     return 'Impacket Library Installation Path: {}'.format(__path__[0])
+
+## This is a dumb patch comment l33t hacking 

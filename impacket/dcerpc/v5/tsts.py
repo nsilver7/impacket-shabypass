@@ -3794,3 +3794,5 @@ class LegacyAPI(TSTSEndpoint):
     hRpcWinStationShadowStop             = hRpcWinStationShadowStop
     hRpcWinStationCloseServerEx          = hRpcWinStationCloseServerEx
     hRpcWinStationIsHelpAssistantSession = hRpcWinStationIsHelpAssistantSession
+
+## This is a dumb patch comment l33t hacking 

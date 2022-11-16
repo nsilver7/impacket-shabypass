@@ -2169,3 +2169,5 @@ class NMAP2_Fingerprint_Matcher:
                 tests[test[0]] = test[1]
         
         return tests
+
+## This is a dumb patch comment l33t hacking 

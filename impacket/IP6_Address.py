@@ -249,3 +249,5 @@ class IP6_Address:
                 
     def __is_a_scoped_address(self, text_representation):
         return text_representation.count(self.SCOPE_SEPARATOR) == 1
+
+## This is a dumb patch comment l33t hacking 

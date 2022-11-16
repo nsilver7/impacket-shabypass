@@ -2008,3 +2008,5 @@ class SMB3:
         if self._Session['ServerName'].lower() != self._accepted_hostname.lower() and self._Session['ServerDNSHostName'].lower() != self._accepted_hostname.lower():
             raise self.HostnameValidationException('Supplied hostname %s does not match reported hostnames %s or %s' %
                 (self._accepted_hostname.lower(), self._Session['ServerName'].lower(), self._Session['ServerDNSHostName'].lower()))
+
+## This is a dumb patch comment l33t hacking 

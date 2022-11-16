@@ -178,3 +178,5 @@ class TargetsFileWatcher(Thread):
                 self.lastmtime = mtime
                 self.targetprocessor.readTargets()
             time.sleep(1.0)
+
+## This is a dumb patch comment l33t hacking 

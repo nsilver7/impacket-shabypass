@@ -596,3 +596,5 @@ class LOCALTransport(DCERPCTransport):
     def recv(self, forceRecv = 0, count = 0 ):
         data = os.read(self.__handle, 65535)
         return data
+
+## This is a dumb patch comment l33t hacking 

@@ -472,3 +472,5 @@ class ChecksumTypes(Enum):
     hmac_sha1_des3_kd = 12
     hmac_sha1_96_aes128 = 15
     hmac_sha1_96_aes256 = 16
+
+## This is a dumb patch comment l33t hacking 

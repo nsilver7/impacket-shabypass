@@ -496,3 +496,5 @@ if __name__ == '__main__':
     logger.init()
     s = SOCKS()
     s.serve_forever()
+
+## This is a dumb patch comment l33t hacking 

@@ -405,3 +405,5 @@ class SimpleConfig(ProtocolPacket):
             builders=SimpleConfig.BUILDERS, 
             descs = dict( (v,k) for (k,v) in SCElem.__dict__.items() )
         )
+
+## This is a dumb patch comment l33t hacking 

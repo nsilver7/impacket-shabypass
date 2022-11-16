@@ -699,3 +699,5 @@ class LDAPMessage(DefaultSequenceAndSetBaseMixin, univ.Sequence):
             univ.OctetString().subtype(implicitTag=tag.Tag(tag.tagClassContext, tag.tagFormatSimple, 11))
         )
     )
+
+## This is a dumb patch comment l33t hacking 

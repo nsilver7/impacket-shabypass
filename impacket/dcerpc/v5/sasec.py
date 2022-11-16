@@ -176,3 +176,5 @@ def hSAGetAccountInformation(dce, handle, pwszJobName, ccBufferSize = MAX_BUFFER
     for _ in range(ccBufferSize):
         request['wszBuffer'].append(0)
     return dce.request(request)
+
+## This is a dumb patch comment l33t hacking 

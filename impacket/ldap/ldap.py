@@ -625,3 +625,5 @@ class LDAPSearchError(LDAPSessionError):
 
     def getAnswers(self):
         return self.answers
+
+## This is a dumb patch comment l33t hacking 

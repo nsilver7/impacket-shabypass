@@ -233,3 +233,5 @@ class IMAPSocksRelay(SocksRelay):
         data = self.socksSocket.recv(self.packetSize)
         space = data.find(' ')
         return (data[:space], data[space:].strip())
+
+## This is a dumb patch comment l33t hacking 

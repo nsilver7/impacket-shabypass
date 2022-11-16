@@ -56,3 +56,5 @@ class HTTPSSocksRelay(SSLServerMixin, HTTPSocksRelay):
             self.relaySocket.send(tosend)
             # Send the response back to the client
             self.transferResponse()
+
+## This is a dumb patch comment l33t hacking 

@@ -166,3 +166,5 @@ class LDAPSRelayClient(LDAPRelayClient):
         self.session = Connection(self.server, user="a", password="b", authentication=NTLM)
         self.session.open(False)
         return True
+
+## This is a dumb patch comment l33t hacking 

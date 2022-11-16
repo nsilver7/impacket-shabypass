@@ -212,3 +212,5 @@ if __name__ == '__main__':
     dumper = RPCDump(username, password, domain, options.hashes, int(options.port))
 
     dumper.dump(remoteName, options.target_ip)
+
+## This is a dumb patch comment l33t hacking 

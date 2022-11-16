@@ -260,3 +260,5 @@ if __name__ == '__main__':
 
     dumper = SAMRDump(username, password, domain, options.hashes, options.aesKey, options.k, options.dc_ip, int(options.port), options.csv)
     dumper.dump(remoteName, options.target_ip)
+
+## This is a dumb patch comment l33t hacking 

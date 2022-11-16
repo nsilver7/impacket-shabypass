@@ -187,3 +187,5 @@ if __name__ == '__main__':
                 print("SQL> %s" % line, end=' ')
                 shell.onecmd(line)
     ms_sql.disconnect()
+
+## This is a dumb patch comment l33t hacking 

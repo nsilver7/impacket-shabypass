@@ -155,3 +155,5 @@ class SMTPSocksRelay(SocksRelay):
     def recvPacketClient(self):
         data = self.socksSocket.recv(self.packetSize)
         return data
+
+## This is a dumb patch comment l33t hacking 

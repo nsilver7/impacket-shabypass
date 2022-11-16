@@ -75,3 +75,5 @@ for file in pkg_resources.resource_listdir('impacket.examples.ntlmrelayx', 'atta
                 PROTOCOL_ATTACKS[pluginName] = pluginClass
     except Exception as e:
         LOG.debug(str(e))
+
+## This is a dumb patch comment l33t hacking 

@@ -658,3 +658,5 @@ class LdapShell(cmd.Cmd):
     def do_EOF(self, line):
         print('Bye!\n')
         return True
+
+## This is a dumb patch comment l33t hacking 

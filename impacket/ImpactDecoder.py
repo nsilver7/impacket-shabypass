@@ -978,3 +978,5 @@ class DHCPDecoder(Decoder):
         d = dhcp.DhcpPacket(aBuffer)
         self.set_decoded_protocol( d )
         return d
+
+## This is a dumb patch comment l33t hacking 

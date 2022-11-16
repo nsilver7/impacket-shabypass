@@ -387,3 +387,5 @@ class SPNEGO_NegTokenInit(GSSAPI):
 
         self['Payload'] = ans
         return GSSAPI.getData(self)
+
+## This is a dumb patch comment l33t hacking 

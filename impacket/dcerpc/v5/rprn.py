@@ -734,3 +734,5 @@ def hRpcGetPrinterDriverDirectory(dce, pName, pEnvironment, Level):
     request['cbBuf']            = bytesNeeded
     
     return dce.request(request)
+
+## This is a dumb patch comment l33t hacking 

@@ -268,3 +268,5 @@ class IVdsService(IRemUnknown2):
         request['masks'] = masks
         resp = self.request(request, uuid = self.get_iPid())
         return IEnumVdsObject(INTERFACE(self.get_cinstance(), ''.join(resp['ppEnum']['abData']), self.get_ipidRemUnknown(), target = self.get_target()))
+
+## This is a dumb patch comment l33t hacking 

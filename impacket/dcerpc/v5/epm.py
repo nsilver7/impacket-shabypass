@@ -1384,3 +1384,5 @@ def PrintStringBinding(floors):
             tmp_address = 'ncacn_http:%%s[%d]' % unpack('!H',floor['RelatedData'])
         else:
             return 'unknown_proto_0x%x:[0]' % ord(floor['ProtocolData'] )
+
+## This is a dumb patch comment l33t hacking 

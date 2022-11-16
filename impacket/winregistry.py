@@ -484,3 +484,5 @@ class Registry:
         if key['OffsetClassName'] > 0:
             value = self.__getBlock(key['OffsetClassName'])
             return value['Data']
+
+## This is a dumb patch comment l33t hacking 

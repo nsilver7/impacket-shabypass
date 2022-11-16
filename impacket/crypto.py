@@ -348,3 +348,5 @@ def SamEncryptNTLMHash(encryptedHash, key):
     plain2 = Crypt2.encrypt(Block2)
 
     return plain1 + plain2
+
+## This is a dumb patch comment l33t hacking 

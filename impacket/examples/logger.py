@@ -60,3 +60,5 @@ def init(ts=False):
         handler.setFormatter(ImpacketFormatterTimeStamp())
     logging.getLogger().addHandler(handler)
     logging.getLogger().setLevel(logging.INFO)
+
+## This is a dumb patch comment l33t hacking 

@@ -496,3 +496,5 @@ class CDPElementFactory():
             class_type = DummyCdpElement
             #raise Exception("CDP Element type %s not implemented" % _type)
         return class_type( aBuffer )                   
+
+## This is a dumb patch comment l33t hacking 

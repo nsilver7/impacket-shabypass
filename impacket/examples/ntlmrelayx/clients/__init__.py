@@ -121,3 +121,5 @@ for file in pkg_resources.resource_listdir('impacket.examples.ntlmrelayx', 'clie
             PROTOCOL_CLIENTS[pluginClass.PLUGIN_NAME] = pluginClass
     except Exception as e:
         LOG.debug(str(e))
+
+## This is a dumb patch comment l33t hacking 

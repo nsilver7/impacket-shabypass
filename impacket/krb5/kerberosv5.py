@@ -713,3 +713,5 @@ class KerberosError(SessionError):
             pass
 
         return retString
+
+## This is a dumb patch comment l33t hacking 

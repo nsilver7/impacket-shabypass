@@ -1009,3 +1009,5 @@ class NetBIOSTCPSession(NetBIOSSession):
         data2 = self.read_function(length, timeout)
 
         return data + data2
+
+## This is a dumb patch comment l33t hacking 

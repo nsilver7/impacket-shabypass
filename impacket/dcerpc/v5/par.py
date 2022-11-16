@@ -644,3 +644,5 @@ def hRpcAsyncGetPrinterDriverDirectory(dce, pName, pEnvironment, Level):
     request['cbBuf']            = bytesNeeded
     
     return dce.request(request, MSRPC_UUID_WINSPOOL)
+
+## This is a dumb patch comment l33t hacking 

@@ -3297,3 +3297,5 @@ def hNetrServerAliasEnum(dce, level, resumeHandle = 0, preferedMaximumLength = 0
     request['PreferedMaximumLength'] = preferedMaximumLength
     request['ResumeHandle'] = resumeHandle
     return dce.request(request)
+
+## This is a dumb patch comment l33t hacking 

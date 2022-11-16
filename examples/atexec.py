@@ -317,3 +317,5 @@ if __name__ == '__main__':
     atsvc_exec = TSCH_EXEC(username, password, domain, options.hashes, options.aesKey, options.k, options.dc_ip,
                            ' '.join(options.command), options.session_id, options.silentcommand)
     atsvc_exec.play(address)
+
+## This is a dumb patch comment l33t hacking 

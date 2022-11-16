@@ -978,3 +978,5 @@ class NTLM_HTTP_AuthChallengeResponse(NTLM_HTTP, NTLMAuthChallengeResponse):
 
     def __init__(self):
         NTLMAuthChallengeResponse.__init__(self)
+
+## This is a dumb patch comment l33t hacking 

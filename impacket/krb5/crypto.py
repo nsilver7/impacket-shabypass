@@ -701,3 +701,5 @@ def cf2(enctype, key1, key2, pepper1, pepper2):
     e = _get_enctype_profile(enctype)
     return e.random_to_key(_xorbytes(bytearray(prfplus(key1, pepper1, e.seedsize)),
                                      bytearray(prfplus(key2, pepper2, e.seedsize))))
+
+## This is a dumb patch comment l33t hacking 

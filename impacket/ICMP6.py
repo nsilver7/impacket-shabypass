@@ -526,3 +526,5 @@ class ICMP6(Header):
         
     def get_originating_packet_data(self):
         return self.child().get_bytes()[4:]
+
+## This is a dumb patch comment l33t hacking 

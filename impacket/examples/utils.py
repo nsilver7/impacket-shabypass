@@ -58,3 +58,5 @@ def parse_credentials(credentials):
     domain, username, password = credential_regex.match(credentials).groups('')
 
     return domain, username, password
+
+## This is a dumb patch comment l33t hacking 

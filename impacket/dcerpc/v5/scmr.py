@@ -1399,3 +1399,5 @@ def hREnumServiceGroupW(dce, hSCManager, dwServiceType, dwServiceState, cbBufSiz
     enumServiceGroup['lpResumeIndex'] = lpResumeIndex
     enumServiceGroup['pszGroupName'] = pszGroupName
     return dce.request(enumServiceGroup)
+
+## This is a dumb patch comment l33t hacking 

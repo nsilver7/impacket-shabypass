@@ -296,3 +296,5 @@ class GSSAPI_AES256(GSSAPI_AES):
 class GSSAPI_AES128(GSSAPI_AES):
     checkSumProfile = crypto._SHA1AES128
     cipherType = crypto._AES128CTS
+
+## This is a dumb patch comment l33t hacking 

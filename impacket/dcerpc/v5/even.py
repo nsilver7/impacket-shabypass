@@ -401,3 +401,5 @@ def hElfrOldestRecordNumber(dce, logHandle):
     request['LogHandle'] = logHandle
     resp = dce.request(request)
     return resp
+
+## This is a dumb patch comment l33t hacking 

@@ -85,3 +85,5 @@ class DCERPCTests(RemoteTestCase):
             self.string_binding = self.string_binding.format(self)
         elif self.string_binding_formatting == self.STRING_BINDING_MAPPER:
             self.string_binding = epm.hept_map(self.machine, self.iface_uuid, protocol=self.protocol)
+
+## This is a dumb patch comment l33t hacking 

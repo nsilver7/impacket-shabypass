@@ -181,3 +181,5 @@ def hDsRolerGetPrimaryDomainInformation(dce, infoLevel):
     request = DsRolerGetPrimaryDomainInformation()
     request['InfoLevel'] = infoLevel
     return dce.request(request)
+
+## This is a dumb patch comment l33t hacking 

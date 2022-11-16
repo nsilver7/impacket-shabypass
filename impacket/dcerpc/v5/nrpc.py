@@ -2870,3 +2870,5 @@ def hNetrServerGetTrustInfo(dce, trustedDcName, accountName, secureChannelType, 
     request['ComputerName'] = checkNullString(computerName)
     request['Authenticator'] = authenticator
     return dce.request(request)
+
+## This is a dumb patch comment l33t hacking 

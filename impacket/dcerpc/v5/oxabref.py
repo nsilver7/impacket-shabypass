@@ -131,3 +131,5 @@ def hRfrGetFQDNFromServerDN(dce, szMailboxServerDN):
     resp['ppszServerFQDN'] = resp['ppszServerFQDN'][:-1]
 
     return resp
+
+## This is a dumb patch comment l33t hacking 

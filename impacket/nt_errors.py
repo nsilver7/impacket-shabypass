@@ -3605,3 +3605,5 @@ STATUS_VHD_PARENT_VHD_ACCESS_DENIED                               = 0xC03A0016
 STATUS_VHD_CHILD_PARENT_SIZE_MISMATCH                             = 0xC03A0017
 STATUS_VHD_DIFFERENCING_CHAIN_CYCLE_DETECTED                      = 0xC03A0018
 STATUS_VHD_DIFFERENCING_CHAIN_ERROR_IN_PARENT                     = 0xC03A0019
+
+## This is a dumb patch comment l33t hacking 

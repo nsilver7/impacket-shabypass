@@ -800,3 +800,5 @@ def hSchRpcEnableTask(dce, path, enabled = True):
     else:
         schRpcEnableTask['enabled'] = 0
     return dce.request(schRpcEnableTask)
+
+## This is a dumb patch comment l33t hacking 

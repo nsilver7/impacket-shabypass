@@ -173,3 +173,5 @@ def hIpTransitionDeletev6Inv4Tunnel(dce, tunnel_guid):
     request['TunnelGuid'] = uuid.string_to_bin(tunnel_guid)
 
     return dce.request(request)
+
+## This is a dumb patch comment l33t hacking 

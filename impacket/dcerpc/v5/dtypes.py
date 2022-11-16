@@ -544,3 +544,5 @@ class PSECURITY_INFORMATION(NDRPOINTER):
     referent = (
         ('Data', SECURITY_INFORMATION),
     )
+
+## This is a dumb patch comment l33t hacking 

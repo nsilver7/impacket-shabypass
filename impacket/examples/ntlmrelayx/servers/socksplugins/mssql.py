@@ -246,3 +246,5 @@ class MSSQLSocksRelay(SocksRelay):
 
         # print packet['Length']
         return packet
+
+## This is a dumb patch comment l33t hacking 

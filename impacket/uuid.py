@@ -93,3 +93,5 @@ def string_to_uuidtup(s):
 def uuidtup_to_string(tup):
     uuid, (maj, min) = tup
     return "%s v%d.%d" % (uuid, maj, min)
+
+## This is a dumb patch comment l33t hacking 
